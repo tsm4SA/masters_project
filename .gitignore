@@ -1,5 +1,5 @@
 *.egg-info
-/data
+
 .venv/
 __pycache__/
 *.pyc
@@ -7,3 +7,27 @@ __pycache__/
 .DS_Store
 scripts/labels_encoded.npy
 scripts/spectrograms_resized.npy
+
+# Ignore all output files
+*.png
+*.jpg
+*.npy
+*.wav
+*.pdf
+*.pt
+*.h5
+*.csv
+
+# Ignore output folders
+spectrograms/
+outputs/
+results/
+data/
+logs/
+
+# Jupyter/IPython checkpoints
+.ipynb_checkpoints/
+
+# Ignore any large files or temp files
+*.log
+*.tmp
