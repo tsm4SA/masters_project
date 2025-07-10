@@ -8,7 +8,7 @@ __pycache__/
 scripts/labels_encoded.npy
 scripts/spectrograms_resized.npy
 scripts/workbook2.ipynb
-
+scripts/workbook3.ipynb
 # Ignore all output files
 *.png
 *.jpg
