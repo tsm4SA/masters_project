@@ -10,6 +10,7 @@ scripts/spectrograms_resized.npy
 scripts/workbook2.ipynb
 scripts/workbook3.ipynb
 scripts/workbook4.ipynb
+scripts/workbook5.ipynb
 # Ignore all output files
 *.png
 *.jpg
